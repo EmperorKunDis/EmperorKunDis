@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=EmperorKunDis&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://codepen.io/Martin-KunDis-Svanda/pen/poXrgqM" alt = "SolarSystem"/>
+	<img src = "https://codepen.io/Martin-KunDis-Svanda/full/poXrgqM" alt = "SolarSystem"/>
 </p>
 
 <div align="center">
