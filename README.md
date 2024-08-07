@@ -2,7 +2,7 @@
 	<img src = "https://komarev.com/ghpvc/?username=EmperorKunDis&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://codepen.io/Martin-KunDis-Svanda/pen/poXrgqM" alt = "Snake Game"/>
 </p>
 
 <div align="center">
